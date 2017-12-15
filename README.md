@@ -1,0 +1,2 @@
+# miniprojecthotel
+test
